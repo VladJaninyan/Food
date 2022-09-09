@@ -258,5 +258,13 @@
     "yargs-parser": "^21.1.1",
     "yallist": "^4.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladJaninyan/Food.git"
+  },
+  "bugs": {
+    "url": "https://github.com/VladJaninyan/Food/issues"
+  },
+  "homepage": "https://github.com/VladJaninyan/Food#readme",
   "description": ""
 }
